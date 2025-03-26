@@ -1,0 +1,7 @@
+Action
+Background
+Character
+Clothes
+Focus
+Nsfw
+Style
