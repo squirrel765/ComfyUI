@@ -5,3 +5,6 @@
 ## 2025.03.24
 **prompt_combiner, dynamic_prompt_switch를 업로드 하였습니다**  
 <img width="1055" alt="Image" src="https://github.com/user-attachments/assets/0c97a968-b13b-41d9-9b57-51251d0bc643" />
+
+# 2025.03.27
+** 필터노드와 NLP를 이용한 분류 노드 두개를 추가하였습니다**
